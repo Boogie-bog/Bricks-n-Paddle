@@ -1,0 +1,13 @@
+#gameInfo{
+    border: 1px solid black;
+    background-color: rgb(164, 178, 240);
+}
+
+#gameScreen{
+    border: 1px solid black;
+    background-color: rgb(164, 178, 240);
+}
+
+img{
+    display: none;
+}
